@@ -1,0 +1,22 @@
+{
+  "name": "bone-controller",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express": "^4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jorgeguberte/bone-controller.git"
+  },
+  "author": "Jorge Guberte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeguberte/bone-controller/issues"
+  },
+  "homepage": "https://github.com/jorgeguberte/bone-controller#readme"
+}
